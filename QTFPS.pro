@@ -15,9 +15,15 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+    glview.cpp \
+    tiny_obj_loader.cpp \
+    mesh.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += \
+    glview.h \
+    tiny_obj_loader.h \
+    meshloader.h \
+    mesh.h
 
 RESOURCES += \
     resources.qrc
