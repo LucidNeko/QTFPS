@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>shaders/basic.vert</file>
+    <file>shaders/basic.frag</file>
+    <file>icons/aperture-2x.png</file>
+    <file>icons/aperture-4x.png</file>
+    <file>icons/aperture-8x.png</file>
+</qresource>
+</RCC>
